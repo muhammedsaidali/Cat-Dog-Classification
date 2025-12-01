@@ -97,27 +97,17 @@ Performance improvements:
 
 ---
 
+## 🧩 Conclusion
+
+Transfer learning is the most effective method for cat–dog classification.
+It achieves near-perfect accuracy, requires less data, and generalizes extremely well compared to models trained from scratch
+
+---
+
 ## 📌 How to Run
 
 **Clone the repository:**
 ```bash
 git clone https://github.com/<your-username>/<repo-name>.git
 cd <repo-name>
-```END
 
-**Install dependencies:**
-```bash
-pip install -r requirements.txt
-```END
-
-**Run in Jupyter or Google Colab:**
-```bash
-jupyter notebook
-```END
-
----
-
-## 🧩 Conclusion
-
-Transfer learning is the most effective method for cat–dog classification.
-It achieves near-perfect accuracy, requires less data, and generalizes extremely well compared to models trained from scratch.
