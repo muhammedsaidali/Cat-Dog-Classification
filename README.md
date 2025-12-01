@@ -1,4 +1,4 @@
-🐱🐶 Cats vs Dogs Classification — CNN, Augmentation & Transfer Learning
+# 🐱🐶 Cats vs Dogs Classification — CNN, Augmentation & Transfer Learning
 
 This project explores how different deep-learning approaches perform on a binary image classification task (cats vs dogs) across varying dataset sizes.
 The experiments include:
